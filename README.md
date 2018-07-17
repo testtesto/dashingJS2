@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ed194e124494e128aa965b7eeae045e)](https://app.codacy.com/app/testtesto/dashingJS2?utm_source=github.com&utm_medium=referral&utm_content=testtesto/dashingJS2&utm_campaign=badger)
 [![Coverage Status](https://coveralls.io/repos/github/testtesto/dashingJS2/badge.svg?branch=master)](https://coveralls.io/github/testtesto/dashingJS2?branch=master)
 [![Build Status](https://travis-ci.org/testtesto/dashingJS2.svg?branch=master)](https://travis-ci.org/testtesto/dashingJS2)
 # DashingJS2
