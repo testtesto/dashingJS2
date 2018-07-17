@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,EAAG;EACD,KAAK,ECHC,OAAO",
+"sources": ["app.component.scss","../sass/_config.scss"],
+"names": [],
+"file": "app.component.css"
+}
